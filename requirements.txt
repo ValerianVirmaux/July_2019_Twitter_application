@@ -1,0 +1,10 @@
+tweepy
+nltk
+pymongo
+langdetect
+stop_words
+textblob
+textblob_fr
+pprint
+prettytable
+tabulate
